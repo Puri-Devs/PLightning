@@ -1,11 +1,3 @@
-.FontMain{
-  font-family: 'Roboto', sans-serif;
-}
-
-.FontSecond{
-  font-family: 'IBM Plex Mono', monospace;
-}
-
 .CenterHorizontal{
   justify-content: center;
   display: flex;
