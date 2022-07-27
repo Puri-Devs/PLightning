@@ -1,4 +1,4 @@
-# PLightning
+# PLightning | Boostrap Alternative
 ### Demo Version: https://puri-devs.github.io/PLightning/
 
 Add css library to your project : 
