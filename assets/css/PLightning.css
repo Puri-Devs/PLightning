@@ -1,21 +1,38 @@
-.CenterHorizontal{
-  justify-content: center;
-  display: flex;
+.Hide{
+  display: none !important;
 }
 
-.CenterVertical{
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
+.LeftAlign{
+  text-align: left;
 }
 
-.Center{
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
+.RightAlign{
+  text-align: right;
+}
+
+.Center, .CenterAlign{
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Left{
+  float: left !important;
+}
+
+.Right{
+  float: right !important;
+}
+
+.Circle{
+  border-radius: 50%;
+}
+
+.Rounded{
+  border-radius: 20px;
+}
+
+.Border{
+  border-style: solid;
 }
