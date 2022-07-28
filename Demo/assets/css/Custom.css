@@ -1,3 +1,7 @@
 .Demo{
   border-color: white;
 }
+
+.Logo{
+  max-width: 600px;
+}
