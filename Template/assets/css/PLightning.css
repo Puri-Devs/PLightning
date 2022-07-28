@@ -1,0 +1,60 @@
+.Hide{
+  display: none !important;
+}
+
+.LeftAlign{
+  text-align: left;
+}
+
+.RightAlign{
+  text-align: right;
+}
+
+.Center, .CenterAlign{
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Left{
+  float: left !important;
+}
+
+.Right{
+  float: right !important;
+}
+
+.Circle{
+  border-radius: 50%;
+}
+
+.Rounded{
+  border-radius: 20px;
+}
+
+.Border{
+  border-style: solid;
+}
+
+.Container{
+  margin: 0 auto;
+  max-width: 1280px;
+  width: 90%;
+}
+
+@media only screen and (min-width: 601px){
+  .Container{
+    width: 85%;
+  }
+}
+
+@media only screen and (min-width: 993px){
+  .Container{
+    width: 70%;
+  }
+}
+
+.Fix{
+  position: fixed;
+}
