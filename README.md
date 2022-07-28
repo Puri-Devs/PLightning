@@ -1,5 +1,5 @@
 # PLightning | Bootstrap Alternative
-### Demo Version: https://puri-devs.github.io/PLightning/
+### Check: [Demo](https://puri-devs.github.io/PLightning/Demo)
 
 Add css library to your project :
 
